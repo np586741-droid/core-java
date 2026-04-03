@@ -11,5 +11,8 @@ class YouTubeRunner
 		System.out.println(msg1);
 		String msg2=tube.search("Ayya","Challenging Star Darshan");
 		System.out.println(msg2);
+		
+		String msg=tube.search("Nikhilniku@13","Nikiniku@13","Ayya");
+		System.out.println(msg);
 	}
 }
