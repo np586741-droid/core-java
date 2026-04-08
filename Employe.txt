@@ -1,0 +1,7 @@
+class Employe{
+public ststic void main (String[]args){
+String name;
+String email;
+int salary;
+}
+}

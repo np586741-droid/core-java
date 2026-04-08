@@ -1,0 +1,39 @@
+what is java?
+=java is a high-level object oriented programming language.
+
+Explain how java file execution?
+=java execution is a fist into bytecode to complie the program in java.
+
+what is data type?
+=datatype can be store in the value in single variable.
+
+what is data type& explain datatype?
+ can be in the value in single variable 
+their are 8 datatype:
+= int:- it can be for intialize the value for integer value
+double:-it can be used for the
+float:-it can be used for
+long:-it have only two values true or false
+char:-character have only single character
+boolean
+short
+string
+
+what is variable?
+=variable is  used to store insingle value
+their are 3 variable
+local variable:-inside the method but outside the calss
+global variable:-inside the class but outside the method
+static variable:-parameter variable 
+
+what is array?
+=array is variable it can store multiple values in single variable to perform.
+
+what is method?explain types of method?
+=method is a block of code to program specific task
+their are 2 types
+pre-defined
+user-defined
+
+what is a constructor?
+=constructor is used to create 
